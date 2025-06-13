@@ -161,5 +161,3 @@ curl -X POST "http://[SERVER_IP]:8000/transcribe" \
    # Via ADB
    adb logcat | grep Jasper
    ```
-
-## 🔍 Troubleshooting
